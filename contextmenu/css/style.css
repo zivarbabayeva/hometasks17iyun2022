@@ -1,0 +1,9 @@
+div {
+    background: rgb(153, 239, 239);
+    border: 1px solid rgb(146, 213, 244);
+    border-radius: 10%;
+    box-shadow:aquamarine;
+    padding: 40px 20px;
+    margin: 40px;
+    width: 300px;
+  }
